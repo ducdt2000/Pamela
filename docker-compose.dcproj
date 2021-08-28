@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
-    <ProjectGuid>a978b4dd-d173-4138-b142-fb3f75180b74</ProjectGuid>
+    <ProjectGuid>5afdd75e-3134-4bb2-9b6b-5c65cbbd9fea</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}/swagger</DockerServiceUrl>
     <DockerServiceName>basket.api</DockerServiceName>
